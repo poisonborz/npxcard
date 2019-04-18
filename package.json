@@ -1,6 +1,6 @@
 {
   "name": "poisonborz",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "A personal card of Janos Herman inspired by Tierney Cyren (@bitandbang)",
   "main": "/bin/card.js",
   "bin": {
